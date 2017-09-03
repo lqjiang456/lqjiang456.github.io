@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2017-08-29T22:53:53+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://lqjiang456.github.io/atom.xml" rel="self"/>
+  <link href="http://lqjiang456.github.io/"/>
+  <updated>2017-09-03T21:00:34+08:00</updated>
+  <id>http://lqjiang456.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Test2]]></title>
+    <link href="http://lqjiang456.github.io/blog/2017/09/03/test2/"/>
+    <updated>2017-09-03T20:59:11+08:00</updated>
+    <id>http://lqjiang456.github.io/blog/2017/09/03/test2</id>
+    <content type="html"><![CDATA[<h1>hello hello hello test2</h1>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hello_world]]></title>
-    <link href="http://yoursite.com/blog/2017/08/29/hello-world/"/>
+    <link href="http://lqjiang456.github.io/blog/2017/08/29/hello-world/"/>
     <updated>2017-08-29T22:52:13+08:00</updated>
-    <id>http://yoursite.com/blog/2017/08/29/hello-world</id>
+    <id>http://lqjiang456.github.io/blog/2017/08/29/hello-world</id>
     <content type="html"><![CDATA[<h1>我的第一个octopress博客test</h1>
 ]]></content>
   </entry>

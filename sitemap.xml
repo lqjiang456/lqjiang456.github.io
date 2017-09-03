@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://yoursite.com/blog/2017/08/29/hello-world/</loc>
+<loc>http://lqjiang456.github.io/blog/2017/09/03/test2/</loc>
+<lastmod>2017-09-03T20:59:11+08:00</lastmod>
+</url>
+<url>
+<loc>http://lqjiang456.github.io/blog/2017/08/29/hello-world/</loc>
 <lastmod>2017-08-29T22:52:13+08:00</lastmod>
 </url>
 <url>
-<loc>http://yoursite.com/blog/archives/</loc>
+<loc>http://lqjiang456.github.io/blog/archives/</loc>
 </url>
 <url>
-<loc>http://yoursite.com/</loc>
+<loc>http://lqjiang456.github.io/</loc>
 </url>
 </urlset>
