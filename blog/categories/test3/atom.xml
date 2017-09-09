@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: test3 | lqjiang456]]></title>
+  <link href="http://lqjiang456.github.io/blog/categories/test3/atom.xml" rel="self"/>
+  <link href="http://lqjiang456.github.io/"/>
+  <updated>2017-09-09T15:52:28+08:00</updated>
+  <id>http://lqjiang456.github.io/</id>
+  <author>
+    <name><![CDATA[lqjiang456]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test3]]></title>
+    <link href="http://lqjiang456.github.io/blog/2017/09/03/test3/"/>
+    <updated>2017-09-03T21:11:32+08:00</updated>
+    <id>http://lqjiang456.github.io/blog/2017/09/03/test3</id>
+    <content type="html"><![CDATA[<h3>test 3 hello world</h3>
+]]></content>
+  </entry>
+  
+</feed>
