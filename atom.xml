@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://lqjiang456.github.io/atom.xml" rel="self"/>
   <link href="http://lqjiang456.github.io/"/>
-  <updated>2017-09-03T22:42:24+08:00</updated>
+  <updated>2017-09-09T14:49:41+08:00</updated>
   <id>http://lqjiang456.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Sucess]]></title>
+    <title type="html"><![CDATA[sucess]]></title>
     <link href="http://lqjiang456.github.io/blog/2017/09/03/sucess/"/>
     <updated>2017-09-03T22:40:40+08:00</updated>
     <id>http://lqjiang456.github.io/blog/2017/09/03/sucess</id>
@@ -25,7 +25,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Test3]]></title>
+    <title type="html"><![CDATA[test3]]></title>
     <link href="http://lqjiang456.github.io/blog/2017/09/03/test3/"/>
     <updated>2017-09-03T21:11:32+08:00</updated>
     <id>http://lqjiang456.github.io/blog/2017/09/03/test3</id>
@@ -34,7 +34,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Test2]]></title>
+    <title type="html"><![CDATA[test2]]></title>
     <link href="http://lqjiang456.github.io/blog/2017/09/03/test2/"/>
     <updated>2017-09-03T20:59:11+08:00</updated>
     <id>http://lqjiang456.github.io/blog/2017/09/03/test2</id>
@@ -43,7 +43,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Hello_world]]></title>
+    <title type="html"><![CDATA[hello_world]]></title>
     <link href="http://lqjiang456.github.io/blog/2017/08/29/hello-world/"/>
     <updated>2017-08-29T22:52:13+08:00</updated>
     <id>http://lqjiang456.github.io/blog/2017/08/29/hello-world</id>
