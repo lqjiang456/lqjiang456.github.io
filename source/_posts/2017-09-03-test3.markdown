@@ -3,7 +3,7 @@ layout: post
 title: "test3"
 date: 2017-09-03 21:11:32 +0800
 comments: true
-categories: 
+categories: test3
 ---
 
 ###test 3 hello world

@@ -3,6 +3,6 @@ layout: post
 title: "test2"
 date: 2017-09-03 20:59:11 +0800
 comments: true
-categories: 
+categories: test2
 ---
 # hello hello hello test2
